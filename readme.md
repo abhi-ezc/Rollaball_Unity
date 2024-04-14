@@ -17,7 +17,7 @@ To play Rollaball, you have a couple of options:
 
 I'm a Game Developer with expertise primarily in Unreal Engine 4 & 5. My previous project, Project Quantumloop, showcases my proficiency and experience in game development:
 
-video link : [Click Here](https://rb.gy/xpru5k)
+video link : [Google Drive](https://drive.google.com/drive/folders/1gEmEsA3O9cQLq3x_nFtJseciNDfCQyeI)
 
 - **Sole Developer for "QuantumLoop":** Handled 100% of project tasks.
 - **Proficient in Blueprint Scripting:** Implemented 90% of development tasks efficiently.
